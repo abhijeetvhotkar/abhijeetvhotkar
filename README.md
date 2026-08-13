@@ -12,6 +12,21 @@ I'm Abhijeet (uh-bee-jee-t), I'm a Senior Software Engineer from the beautiful P
 - [ ] Deep Learning & ML
 - [ ] Producing House Music
 
+### My Tech Stack
+
+![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=32&animation=shake)
+![docker](https://www.readmecodegen.com/api/social-icon?name=docker&size=32)
+![python](https://www.readmecodegen.com/api/social-icon?name=python&size=32)
+![nextjs](https://www.readmecodegen.com/api/social-icon?name=nextjs&size=32)
+![nestjs](https://www.readmecodegen.com/api/social-icon?name=nestjs&size=32)
+![postgresql](https://www.readmecodegen.com/api/social-icon?name=postgresql&size=32&animation=glow)
+![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=32)
+![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=32)
+![git](https://www.readmecodegen.com/api/social-icon?name=git&size=32)
+![react](https://www.readmecodegen.com/api/social-icon?name=react&size=32&animation=spin)
+![angular](https://www.readmecodegen.com/api/social-icon?name=angular&size=32)
+![vue](https://www.readmecodegen.com/api/social-icon?name=vue&size=32)
+
 ### 📫 How to reach me:
   - abhijeetvhotkar@gmail.com
   - If you know me then you already know how!
