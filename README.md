@@ -1,5 +1,39 @@
 ## Hi there 👋
 
+I'm Abhijeet (uh-bee-jee-t), I'm a Senior Software Engineer from the beautiful Pacific Northwest. Professionally worked in the Healthcare, Gaming, HR Tech, and E-commerce spaces. Built several micro-services and tinkered with design challenges related to UI/UX. Love working on applications that are legacy or starting from ground up!
+
+### 🔭 I’m currently working on
+- [ ] 📝 Reservation system (private repo)
+- [ ] 🤖 Getting AI to give me right answers.
+
+### 🌱 I’m currently learning
+- [ ] Rust
+- [ ] Algorithms
+- [ ] Deep Learning & ML
+- [ ] Producing House Music
+
+### 📫 How to reach me:
+  - abhijeetvhotkar@gmail.com
+  - If you know me then you already know how!
+
+### 📚 Books read this year (2026)
+|     | Title | Author | Publication |
+| --- | ----- | ------ | ----------- |
+| 🧐📖 | The Reverse Centaur's Guide to Life After AI | Cory Doctorow | MCD |
+| ✅ | The Simple Path to Wealth | JL Collins | Authors Equity |
+| ✅ | The Book of Five Rings | Miyamoto Musashi | Arcturus |
+| ✅ | The Art of War | Sun Tzu | Arcturus |
+| ✅ | The PARA Method | Tiago Forte | Simon Element / Simon Acumen |
+| ✅ | Slow Productivity | Cal Newport | Portfolio |
+| ✅ | Empire of AI | Karen Hao | Penguin Press |
+| ✅ | The Creative Act | Rick Rubin | Penguin Press |
+| ✅ | Think Again | Adam Grant | Penguin Books |
+| ✅ | Four Thousand Weeks | Oliver Burkeman | Picador Paper |
+| ✅ | Algorithms| Panos Louridas | The MIT Press |
+
+### ⚡ Fun fact:
+#### 🥬 Lettuce is about 96% water 🤯
+
 <!--
 **abhijeetvhotkar/abhijeetvhotkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
