@@ -7,7 +7,7 @@ I'm Abhijeet (uh-bee-jee-t), I'm a Senior Software Engineer from the beautiful P
 - [ ] 🤖 Getting AI to give me right answers.
 
 ### 🌱 I’m currently learning
-- [ ] Rust
+- [ ] Ruby on Rails
 - [ ] Algorithms
 - [ ] Deep Learning & ML
 - [ ] Producing House Music
