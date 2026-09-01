@@ -3,11 +3,11 @@
 I'm Abhijeet (uh-bee-jee-t), I'm a Senior Software Engineer from the beautiful Pacific Northwest. Professionally worked in the Healthcare, Gaming, HR Tech, and E-commerce spaces. Built several micro-services and tinkered with design challenges related to UI/UX. Love working on applications that are legacy or starting from ground up!
 
 ### 🔭 I’m currently working on
-- [ ] 📝 Reservation system (private repo)
+- [ ] 📝 Reservation system
 - [ ] 🤖 Getting AI to give me right answers.
 
 ### 🌱 I’m currently learning
-- [ ] Ruby on Rails
+- [ ] Langchain, Langgraph, Langsmith
 - [ ] Algorithms
 - [ ] Deep Learning & ML
 - [ ] Producing House Music
