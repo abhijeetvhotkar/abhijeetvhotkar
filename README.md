@@ -34,9 +34,8 @@ I'm Abhijeet (uh-bee-jee-t), I'm a Senior Software Engineer from the beautiful P
 ### 📚 Books read this year (2026)
 |     | Title | Author | Publication |
 | --- | ----- | ------ | ----------- |
-| 🎧 | Laziness Does Not Exist | Devon Price Ph.D. | Atria Books |
-| 🎧 | Dopamine Nation | Anna Lembke, MD | Dutton |
 | 🧐📖 | The Intelligent Investor | Benjamin Graham | Harper Business |
+| ✅ | Dopamine Nation | Anna Lembke, MD | Dutton |
 | ✅ | The Reverse Centaur's Guide to Life After AI | Cory Doctorow | MCD |
 | ✅ | The Simple Path to Wealth | JL Collins | Authors Equity |
 | ✅ | The Book of Five Rings | Miyamoto Musashi | Arcturus |
